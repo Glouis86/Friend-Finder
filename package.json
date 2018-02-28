@@ -1,0 +1,23 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Dating Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "testing",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glouis86/Friend-Finder.git"
+  },
+  "keywords": [
+    "n/a"
+  ],
+  "author": "Gerard Louis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glouis86/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/Glouis86/Friend-Finder#readme"
+}
